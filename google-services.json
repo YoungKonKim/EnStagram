@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719454355353",
+    "project_id": "enstagram-8a5c6",
+    "storage_bucket": "enstagram-8a5c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719454355353:android:ac63c691a75f5ffbc8dd08",
+        "android_client_info": {
+          "package_name": "com.enervis.enstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3eBPTQFkVbo0agTt7JB0sINrPilwteE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
